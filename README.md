@@ -5,14 +5,14 @@ This is a simple command-line bank management system written in C. The project a
 
 # Team Members
 
-• Ashish Bhattaraih
+**Ashish Bhattaraih
 
-. Aman Kulung
+ Aman Kulung
 
-. Arjun Gautam
-
-. Shishir Bhandari
-
+ Arjun Gautam
+ 
+ Shishir Bhandari
+**
 # Features
 
 1. Create Account: Allow users to create new bank accounts by providing account holder details such as name, address, gender, age, contact number, email, and trustee name.
