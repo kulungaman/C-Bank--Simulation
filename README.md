@@ -5,7 +5,7 @@ This is a simple command-line bank management system written in C. The project a
 
 # Team Members
 
-• Ashish Bhattarai
+<h4• Ashish Bhattaraih4>
 
 .Aman Kulung
 
@@ -31,7 +31,7 @@ This is a simple command-line bank management system written in C. The project a
 
 8. Load Accounts from File: Provide the ability to load previously saved account data from a file on program startup.
 
-#****Usage
+# Usage
 
 1. Run Code: After successfully build and run ,the basic flow of code is 
 
