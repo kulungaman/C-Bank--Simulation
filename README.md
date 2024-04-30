@@ -7,11 +7,11 @@ This is a simple command-line bank management system written in C. The project a
 
 • Ashish Bhattaraih
 
-.Aman Kulung
+. Aman Kulung
 
-.Arjun Gautam
+. Arjun Gautam
 
-.Shishir Bhandari
+. Shishir Bhandari
 
 # Features
 
