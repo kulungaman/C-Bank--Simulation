@@ -5,7 +5,7 @@ This is a simple command-line bank management system written in C. The project a
 
 # Team Members
 
-<h4• Ashish Bhattaraih4>
+• Ashish Bhattaraih
 
 .Aman Kulung
 
@@ -57,7 +57,7 @@ entering the source and destination account numbers along with the amount.
 
 amount.
 
-• Viewing Account Details: Select option 5 to view account details by entering the account number.
+•Viewing Account Details: Select option 5 to view account details by entering the account number.
 
 • Deleting an Account: Select option 6 to
 
